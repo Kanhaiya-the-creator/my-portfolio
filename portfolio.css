@@ -1,0 +1,80 @@
+
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: Comic Sans MS;
+    font-size: 150%;
+    color: rgba(255, 255, 255, 1);
+    scrollbar-shadow-color: plum;
+    /* border: 0.5px dashed deeppink; */
+  } 
+  .head{
+    text-align: right; 
+    text-decoration: none;
+    margin: 0%;
+    padding: 0%
+  }
+   span a:hover{
+    font-size:105%;
+  } 
+  .heading{
+    font-size: 100%;
+    text-align: center;
+    color: rgb(211, 23, 126);
+    border: 5px ridge rgba(28, 193, 214, 0.719);
+  }
+  .bold{
+    color: lightskyblue;
+  }
+  .img{
+    height: 10%;
+    width: 30%;
+    font-size: 80%;
+  }
+  .input{
+    /* border: 2px ridge rgb(201, 6, 81); */
+    border: 5px outset rgb(201, 6, 81);
+    background-color: black;
+    color: aqua;
+    box-shadow: 0px 0px 15px 5px rgb(201, 6, 81) ;
+  }
+  .footer1{
+    background-color: black;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    scroll-behavior: smooth;
+    box-shadow: 0px 0px 15px 5px rgb(201, 6, 81)
+  }
+  #footer{
+    scroll-behavior: smooth;
+  }
+  
+  .shadow{
+
+    box-shadow:  0px 10px 10px 0px  rgb(229, 29, 106);
+    border-radius: 3%;
+    max-width: 100%;
+    max-height:auto;
+    
+  }
+  .shadow1{
+    text-shadow: 5px 6px 10px rgb(255, 0, 0);
+    color:  rgb(30, 0, 254);
+    background-color: black;
+     text-align: right;
+    /* box-shadow:  4px 4px 10px rgb(4, 0, 255); */
+  }
+  .shadow3{
+   box-shadow: 0 5px 5px rgb(229, 29, 106);  
+   word-spacing: 10%;
+   max-width: 10%;
+   height: auto;
+   color: black;
+  }
+  img.card{
+    box-shadow: 0px 0px 15px 5px rgb(201, 6, 81)
+  }
+  .bor{
+    text-align: center;
+    font-size: large;
+  }
